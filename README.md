@@ -1,15 +1,14 @@
-# Chaowalit Buranajatuporn (parkcbax) 👋
+# parkcbax 👋
 
-Developer at **PTTPLC** based in Bangkok, Thailand (GMT+7).
+Mechanical engineer & Web Developer who loves gadgets, travel, and building custom software.
 
 ## 🛠️ Tech Stack & Skills
-- **Frontend:** Next.js (App Router, Server Actions), React, Tailwind CSS
-- **Backend:** Node.js, NextJS Edge Runtime, Prisma ORM
-- **Database:** PostgreSQL (with `@prisma/adapter-pg` integration)
-- **Specialized Integrations:** 
-  - OCR, RAG & Document Processing (Word generation, PDF parsing)
-  - Smart Home Automation (Tuya integration, LED Dot Matrix display clients)
-  - Enterprise systems integration (Outlook COM automation for email management)
+- **Frontend:** Next.js (App Router, Server Actions), React, Tailwind CSS, Svelte
+- **Backend:** Node.js, NextJS Edge Runtime, Prisma ORM, PHP, MySQL, PostgreSQL
+- **Key Experience:**
+  - Full-stack web application development (WordPress, Next.js, custom PWAs)
+  - OCR, RAG & Document validation engines
+  - Real-time data visualization & telemetry integrations (PowerBI)
 
 ---
 
@@ -25,18 +24,11 @@ Developer at **PTTPLC** based in Bangkok, Thailand (GMT+7).
 - **Description:** Interactive document management platform with integrated rich text editing, OCR capabilities, geographic tracking (Leaflet), and custom export engines.
 - **Path:** `dev/odyssi`
 
-### 🔌 Python 3 iDotMatrix Client (`python3-idotmatrix-client`)
-- **Role & Tech:** Developer | Python, Network Socket Programming.
-- **Description:** A client library for controlling and rendering pixel art/data visualization dashboards on Tuya or 16x16 / 32x32 LED Matrix Displays.
-- **Path:** `dev/python3-idotmatrix-client`
+### 🎹 Music Composer for Onlyonemusicbox.com
+- **Role & Tech:** Full-Stack Developer | JavaScript, PHP, MySQL, Progressive Web App (PWA).
+- **Description:** Web application developed to design note sequences for custom music box production.
+- **URL:** [onlyonemusicbox.com](https://onlyonemusicbox.com)
 
-### 📨 Outlook COM Mail Automation
-- **Role & Tech:** Developer | Python (win32com), Cron scheduler.
-- **Description:** Custom backend pipeline integrating Outlook COM APIs and scheduled cron jobs for automatic handling, sorting, and reporting of enterprise-level daily emails.
-
----
-
-## ⚙️ Development Environment
-- **OS:** Windows 10 (using git-bash / MSYS environment)
-- **Keyboards:** Mac layout on Windows (Win/Alt remapped via PowerToys), Caps Lock language toggle (EN/TH) remapped via Scancode Map.
-- **Model Preferences:** Uses advanced reasoning pipelines (such as `deepseek-v4-pro` under the `maewpro` agent config) for complex refactoring and structural tasks.
+### 🔊 Sound Level Meter (Motor Expo Thailand)
+- **Role & Tech:** Front-End Web Developer (Since 2012) | JavaScript, PHP, MySQL, Svelte, PowerBI.
+- **Description:** Telemetry web front-end for monitoring and visualizing sound levels at Motor Expo Thailand.
